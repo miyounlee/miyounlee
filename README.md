@@ -4,7 +4,7 @@
 
 <h4>About Me 🌷</h4>
 
-<a href="leeyun92@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-E3695F?style=flat-square&logo=maildotcom&logoColor=white"/></a>
+<a href="mailto:leeyun92@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-E3695F?style=flat-square&logo=maildotcom&logoColor=white"/></a>
 <a href="https://miyeonlee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <h4>Tech Skills 🌱</h4>
