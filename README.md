@@ -1,13 +1,11 @@
-### 👋 I'm Miyeon! 
-
+<h3>👋 I'm Miyeon!</h3>
 <br>
-
 <h4>🌷 About Me</h4>
 
 <a href="mailto:leeyun92@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-396CB2?style=flat-square&logo=maildotcom&logoColor=white"/></a>
-<a href="https://miyeonlee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://miyeonlee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-<h4>🌱 Tech Skills</h4>
+<h4>🌱 Tech Stack</h4>
 
 ![Java](https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -17,3 +15,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+<h4>🫧 Experience</h4>
+
+`2023.03 ~ 2023.10` &nbsp; FastCampus Backend 5th
+
+
+<h4>💫 Stats</h4>
+
+<p> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=miyounlee&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=apprentice" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyounlee&layout=compact&langs_count=5&theme=apprentice"/>
+</p>
+
