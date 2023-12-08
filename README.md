@@ -18,13 +18,4 @@
 
 <h4>🫧 Experience</h4>
 
-`2023.03 ~ 2023.10` &nbsp; FastCampus Backend 5th
-
-
-<h4>💫 Stats</h4>
-
-<p> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=miyounlee&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=apprentice" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyounlee&layout=compact&langs_count=5&theme=apprentice"/>
-</p>
-
+`2023.03 ~ 2023.10` &nbsp; **FastCampus Backend** 5th
