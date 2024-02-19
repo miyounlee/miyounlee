@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   <h3>👋 I'm Miyeon!</h3>
   
@@ -23,5 +23,11 @@
   <h4>🫧 Experience</h4>
   
   `2023.03 ~ 2023.10` &nbsp; **FastCampus Backend** 5th
+  
+  <br>
+  
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiyounlee&count_bg=%23EACEFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="88"   height="18" />
+  </a>
 
 </div>
